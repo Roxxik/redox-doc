@@ -1,1 +1,4 @@
-
+be different than existing shells, make them more user friendly/easier to script
+just type 1 + 1 and get 2
+ion: Parsing works, variables works, various scripting primitives works, piping does not yet, forking does neither.
+future: Job control, piping, normal flow control statements, etc

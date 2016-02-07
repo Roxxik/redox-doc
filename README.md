@@ -1,2 +1,2 @@
 # redox-doc
-Giving an overview over rust, will be hosted on the website, later
+Giving an overview over redox, will be hosted on the website, later

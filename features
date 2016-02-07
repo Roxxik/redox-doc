@@ -4,6 +4,4 @@ multiuser basics are there, not yet finished
 zfs compatible, not feature complete yet, can read "real" zfs
 is booting from some hardware
 schemes: abstraction over files via urls
-IO, multithreading, allocations, networking in userland (micro kernel like)
-trying to use rust only, for safety
 most software selfbuild

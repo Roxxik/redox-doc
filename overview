@@ -1,1 +1,11 @@
+general prupose os
+currently only i386, x86_64 planned
+dropping i386 in favor of x86_64shed out
 
+rolls with its own bootloader
+
+getting a lot of traction recently
+
+reusing drivers is difficult
+
+no multiuser, yet, but not much needed to complete

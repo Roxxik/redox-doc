@@ -1,1 +1,2 @@
-
+IO, multithreading, allocations, networking in userland (micro kernel like
+trying to use rust only, for safety

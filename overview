@@ -1,3 +1,7 @@
+I would say, forget dogmas. Take the standards, that work well, and throw away the bad parts. No reason to stick with what didn't work in the first place.
+rewrite to give more freedom
+compat is a nice side effect, but not a goal
+
 general prupose os
 currently only i386, x86_64 planned
 dropping i386 in favor of x86_64shed out

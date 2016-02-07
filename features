@@ -5,3 +5,4 @@ zfs compatible, not feature complete yet, can read "real" zfs
 is booting from some hardware
 schemes: abstraction over files via urls
 most software selfbuild
+mit-licensed

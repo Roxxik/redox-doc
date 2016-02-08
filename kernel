@@ -1,3 +1,4 @@
 microkernel combined with ideas from an "anykernel"
+let the user(admin) decide whether "servers"(i.e. drivers) run as seperate process or in kernel space (the former providing more safety the latter providing better performance)
 IO, multithreading, allocations, networking in userland
 trying to use rust only, for safety

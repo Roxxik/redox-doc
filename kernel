@@ -1,2 +1,3 @@
-IO, multithreading, allocations, networking in userland (micro kernel like
+microkernel combined with ideas from an "anykernel"
+IO, multithreading, allocations, networking in userland
 trying to use rust only, for safety

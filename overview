@@ -4,7 +4,7 @@ compat is a nice side effect, but not a goal
 
 general prupose os
 currently only i386, x86_64 planned
-dropping i386 in favor of x86_64shed out
+dropping i386 in favor of x86_64, when it's finished
 
 rolls with its own bootloader
 

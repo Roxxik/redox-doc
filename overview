@@ -2,6 +2,8 @@ I would say, forget dogmas. Take the standards, that work well, and throw away t
 rewrite to give more freedom
 compat is a nice side effect, but not a goal
 
+since there is no stable version yet, a lot of things are decided in disscussions
+
 general prupose os
 currently only i386, x86_64 planned
 dropping i386 in favor of x86_64, when it's finished
